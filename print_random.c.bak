@@ -7,7 +7,7 @@
 int main()
 {
 	int a;
-	//Hello
+
 	/* seed the randomizer */
 	srand( (unsigned)time(NULL) );
 
